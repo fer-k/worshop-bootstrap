@@ -1,0 +1,28 @@
+CLASE 12- 26/4 WORKSHOP BOOTSTRAP
+
+button - interaccion con usuario
+
+toggle q haga una funcion, collapse q se colapse
+
+#link hace referencia a links
+
+
+font: 400 italic 22px/22px $fourth-font
+Font weight style size line-height font-family
+
+%contenedores es un extend - es una agrupacion de selectores
+
+class img-responsive no crece mas que su tamano normal
+
+ABOUT
+luego del titulo
+
+1 fila y una columna / hacer un reset al li, tiene posocionamiento relativo
+
+usando una lista ponemos en cada li el icono circular, y un article con el texto.
+
+al figure le metemos una imagen (img-resposive) posicionado absolutamente a su contenedor
+
+el texto tiene un padding lateral derecho e izquierdo pa darle margenes
+
+ahrehamos un ::after
